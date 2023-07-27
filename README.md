@@ -2,6 +2,8 @@
 
 This repository contains sample code for constructing a Content Delivery Network (CDN) to deliver images from S3. By utilizing S3 Object Lambda, you can transform aspects such as the image size, quality, and format. The implementation of the Lambda function uses [Sharp](https://sharp.pixelplumbing.com/).
 
+![](/drawio/arch.drawio.png)
+
 ## Deployment Procedure
 
 Install the npm modules.
